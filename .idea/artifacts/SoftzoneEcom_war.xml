@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SoftzoneEcom:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SoftzoneEcom.war">
+      <element id="artifact" artifact-name="SoftzoneEcom:war exploded" />
+    </root>
+  </artifact>
+</component>
