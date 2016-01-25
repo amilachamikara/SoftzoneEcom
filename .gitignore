@@ -1,1 +1,4 @@
 *.war
+/target
+/.idea
+SoftzoneEcom.iml
